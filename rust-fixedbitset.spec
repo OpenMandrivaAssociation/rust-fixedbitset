@@ -5,8 +5,8 @@
 %global crate fixedbitset
 
 Name:           rust-%{crate}
-Version:        0.2.0
-Release:        2%{?dist}
+Version:        0.5.7
+Release:        1%{?dist}
 Summary:        Simple bitset collection
 
 # Upstream license specification: MIT/Apache-2.0
